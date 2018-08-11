@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ar_wenju2" size="512.000000 579.200012" />
+    <ImageTarget name="ar_tongqi2" size="512.000000 589.118042" />
+    <ImageTarget name="ar_qianbi2" size="512.000000 584.112671" />
+    <ImageTarget name="ar_falangqi2" size="512.000000 608.308655" />
+    <ImageTarget name="ar_boliqi2" size="512.000000 583.043091" />
+    <ImageTarget name="ar_jintong3" size="512.000000 341.044067" />
+    <ImageTarget name="ar_bird" size="512.000000 494.533051" />
+    <ImageTarget name="ar_wenju" size="512.000000 365.366333" />
+    <ImageTarget name="ar_tongqi" size="512.000000 365.366333" />
+    <ImageTarget name="ar_falangqi" size="512.000000 365.366333" />
+    <ImageTarget name="ar_boliqi" size="512.000000 365.366333" />
+    <ImageTarget name="diaosu" size="512.000000 910.677307" />
+    <ImageTarget name="ar_ciqi" size="512.000000 512.000000" />
+    <ImageTarget name="2" size="512.000000 341.333344" />
+    <ImageTarget name="1" size="512.000000 341.333344" />
+    <ImageTarget name="ar_qianbi" size="512.000000 365.019012" />
+  </Tracking>
+</QCARConfig>
